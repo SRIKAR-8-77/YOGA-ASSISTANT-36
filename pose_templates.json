@@ -1,0 +1,1249 @@
+{
+  "Adho Mukha Svanasana": {
+    "description": "Adho Mukha Svanasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 162,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 171,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 59,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 174,
+        "threshold": 15
+      }
+    }
+  },
+  "Adho Mukha Vrksasana": {
+    "description": "Adho Mukha Vrksasana",
+    "angles": {
+      "angle_left_elbow": {
+        "ideal": 142,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 151,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 147,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 165,
+        "threshold": 15
+      }
+    }
+  },
+  "Alanasana": {
+    "description": "Alanasana",
+    "angles": {
+      "angle_left_elbow": {
+        "ideal": 167,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 178,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 119,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 149,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 120,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 159,
+        "threshold": 15
+      }
+    }
+  },
+  "Anjaneyasana": {
+    "description": "Anjaneyasana",
+    "angles": {
+      "angle_left_elbow": {
+        "ideal": 160,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 175,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 122,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 76,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 140,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 66,
+        "threshold": 15
+      }
+    }
+  },
+  "Ardha Chandrasana": {
+    "description": "Ardha Chandrasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 174,
+        "threshold": 15
+      },
+      "angle_left_elbow": {
+        "ideal": 172,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 82,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 103,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 174,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 70,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 177,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 172,
+        "threshold": 15
+      }
+    }
+  },
+  "Ardha Matsyendrasana": {
+    "description": "Ardha Matsyendrasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 100,
+        "threshold": 15
+      },
+      "angle_left_elbow": {
+        "ideal": 178,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 39,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 17,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 103,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 47,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 31,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 70,
+        "threshold": 15
+      }
+    }
+  },
+  "Ardha Navasana": {
+    "description": "Ardha Navasana",
+    "angles": {
+      "angle_right_shoulder": {
+        "ideal": 120,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 87,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 179,
+        "threshold": 15
+      }
+    }
+  },
+  "Ardha Pincha Mayurasana": {
+    "description": "Ardha Pincha Mayurasana",
+    "angles": {
+      "angle_left_elbow": {
+        "ideal": 107,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 166,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 55,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 173,
+        "threshold": 15
+      }
+    }
+  },
+  "Ashta Chandrasana": {
+    "description": "Ashta Chandrasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 170,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 175,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 130,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 73,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 155,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 68,
+        "threshold": 15
+      }
+    }
+  },
+  "Baddha Konasana": {
+    "description": "Baddha Konasana",
+    "angles": {
+      "angle_right_hip": {
+        "ideal": 74,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 64,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 37,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 33,
+        "threshold": 15
+      }
+    }
+  },
+  "Bakasana": {
+    "description": "Bakasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 112,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 71,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 18,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 56,
+        "threshold": 15
+      }
+    }
+  },
+  "Balasana": {
+    "description": "Balasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 161,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 168,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 34,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 45,
+        "threshold": 15
+      }
+    }
+  },
+  "Bitilasana": {
+    "description": "Bitilasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 174,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 73,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 108,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 89,
+        "threshold": 15
+      }
+    }
+  },
+  "Camatkarasana": {
+    "description": "Camatkarasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 176,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 130,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 97,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 167,
+        "threshold": 15
+      }
+    }
+  },
+  "Dhanurasana": {
+    "description": "Dhanurasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 132,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 148,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 72,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 110,
+        "threshold": 15
+      }
+    }
+  },
+  "Eka Pada Rajakapotasana": {
+    "description": "Eka Pada Rajakapotasana",
+    "angles": {
+      "angle_left_shoulder": {
+        "ideal": 165,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 125,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 99,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 21,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 70,
+        "threshold": 15
+      }
+    }
+  },
+  "Garudasana": {
+    "description": "Garudasana",
+    "angles": {
+      "angle_left_elbow": {
+        "ideal": 79,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 94,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 119,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 121,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 85,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 81,
+        "threshold": 15
+      }
+    }
+  },
+  "Halasana": {
+    "description": "Halasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 178,
+        "threshold": 15
+      },
+      "angle_left_elbow": {
+        "ideal": 169,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 86,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 88,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 54,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 178,
+        "threshold": 15
+      }
+    }
+  },
+  "Hanumanasana": {
+    "description": "Hanumanasana",
+    "angles": {
+      "angle_left_elbow": {
+        "ideal": 154,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 164,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 100,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 108,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 178,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 158,
+        "threshold": 15
+      }
+    }
+  },
+  "Malasana": {
+    "description": "Malasana",
+    "angles": {
+      "angle_right_shoulder": {
+        "ideal": 25,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 40,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 39,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 28,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 28,
+        "threshold": 15
+      }
+    }
+  },
+  "Marjaryasana": {
+    "description": "Marjaryasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 177,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 81,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 107,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 82,
+        "threshold": 15
+      }
+    }
+  },
+  "Navasana": {
+    "description": "Navasana",
+    "angles": {
+      "angle_left_elbow": {
+        "ideal": 157,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 48,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 65,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 175,
+        "threshold": 15
+      }
+    }
+  },
+  "Padmasana": {
+    "description": "Padmasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 55,
+        "threshold": 15
+      },
+      "angle_left_elbow": {
+        "ideal": 56,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 44,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 48,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 92,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 80,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 18,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 13,
+        "threshold": 15
+      }
+    }
+  },
+  "Parsva Virabhadrasana": {
+    "description": "Parsva Virabhadrasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 144,
+        "threshold": 15
+      },
+      "angle_left_elbow": {
+        "ideal": 174,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 169,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 39,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 134,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 115,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 105,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 178,
+        "threshold": 15
+      }
+    }
+  },
+  "Parsvottanasana": {
+    "description": "Parsvottanasana",
+    "angles": {
+      "angle_left_elbow": {
+        "ideal": 171,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 149,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 20,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 81,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 179,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 172,
+        "threshold": 15
+      }
+    }
+  },
+  "Paschimottanasana": {
+    "description": "Paschimottanasana",
+    "angles": {
+      "angle_left_elbow": {
+        "ideal": 123,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 88,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 33,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 177,
+        "threshold": 15
+      }
+    }
+  },
+  "Phalakasana": {
+    "description": "Phalakasana",
+    "angles": {
+      "angle_left_elbow": {
+        "ideal": 177,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 71,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 151,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 174,
+        "threshold": 15
+      }
+    }
+  },
+  "Pincha Mayurasana": {
+    "description": "Pincha Mayurasana",
+    "angles": {
+      "angle_left_elbow": {
+        "ideal": 69,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 138,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 142,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 179,
+        "threshold": 15
+      }
+    }
+  },
+  "Salamba Bhujangasana": {
+    "description": "Salamba Bhujangasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 89,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 51,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 149,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 167,
+        "threshold": 15
+      }
+    }
+  },
+  "Salamba Sarvangasana": {
+    "description": "Salamba Sarvangasana",
+    "angles": {
+      "angle_left_elbow": {
+        "ideal": 55,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 11,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 53,
+        "threshold": 15
+      }
+    }
+  },
+  "Setu Bandha Sarvangasana": {
+    "description": "Setu Bandha Sarvangasana",
+    "angles": {
+      "angle_left_elbow": {
+        "ideal": 167,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 39,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 167,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 80,
+        "threshold": 15
+      }
+    }
+  },
+  "Sivasana": {
+    "description": "Sivasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 177,
+        "threshold": 15
+      },
+      "angle_left_elbow": {
+        "ideal": 141,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 53,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 4,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 161,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 169,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 179,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 172,
+        "threshold": 15
+      }
+    }
+  },
+  "Supta Kapotasana": {
+    "description": "Supta Kapotasana",
+    "angles": {
+      "angle_left_elbow": {
+        "ideal": 61,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 152,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 90,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 61,
+        "threshold": 15
+      }
+    }
+  },
+  "Trikonasana": {
+    "description": "Trikonasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 172,
+        "threshold": 15
+      },
+      "angle_left_elbow": {
+        "ideal": 175,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 103,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 116,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 53,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 135,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 169,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 174,
+        "threshold": 15
+      }
+    }
+  },
+  "Upavistha Konasana": {
+    "description": "Upavistha Konasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 161,
+        "threshold": 15
+      },
+      "angle_left_elbow": {
+        "ideal": 153,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 95,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 88,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 42,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 41,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 169,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 173,
+        "threshold": 15
+      }
+    }
+  },
+  "Urdhva Dhanurasana": {
+    "description": "Urdhva Dhanurasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 157,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 160,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 92,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 143,
+        "threshold": 15
+      }
+    }
+  },
+  "Urdhva Mukha Svsnssana": {
+    "description": "Urdhva Mukha Svsnssana",
+    "angles": {
+      "angle_left_elbow": {
+        "ideal": 170,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 14,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 126,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 173,
+        "threshold": 15
+      }
+    }
+  },
+  "Ustrasana": {
+    "description": "Ustrasana",
+    "angles": {
+      "angle_left_elbow": {
+        "ideal": 168,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 78,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 95,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 101,
+        "threshold": 15
+      }
+    }
+  },
+  "Utkatasana": {
+    "description": "Utkatasana",
+    "angles": {
+      "angle_left_elbow": {
+        "ideal": 175,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 173,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 86,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 99,
+        "threshold": 15
+      }
+    }
+  },
+  "Uttanasana": {
+    "description": "Uttanasana",
+    "angles": {
+      "angle_left_elbow": {
+        "ideal": 142,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 102,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 25,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 172,
+        "threshold": 15
+      }
+    }
+  },
+  "Utthita Hasta Padangusthasana": {
+    "description": "Utthita Hasta Padangusthasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 179,
+        "threshold": 15
+      },
+      "angle_left_elbow": {
+        "ideal": 177,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 101,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 102,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 176,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 59,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 178,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 171,
+        "threshold": 15
+      }
+    }
+  },
+  "Utthita Parsvakonasana": {
+    "description": "Utthita Parsvakonasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 175,
+        "threshold": 15
+      },
+      "angle_left_elbow": {
+        "ideal": 165,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 74,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 162,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 22,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 169,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 104,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 179,
+        "threshold": 15
+      }
+    }
+  },
+  "Vasisthana": {
+    "description": "Vasisthana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 169,
+        "threshold": 15
+      },
+      "angle_left_elbow": {
+        "ideal": 176,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 132,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 69,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 176,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 159,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 177,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 175,
+        "threshold": 15
+      }
+    }
+  },
+  "Virabhadrasana One": {
+    "description": "Virabhadrasana One",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 157,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 165,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 91,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 127,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 93,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 175,
+        "threshold": 15
+      }
+    }
+  },
+  "Virabhadrasana Three": {
+    "description": "Virabhadrasana Three",
+    "angles": {
+      "angle_left_elbow": {
+        "ideal": 154,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 148,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 118,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 155,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 177,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 166,
+        "threshold": 15
+      }
+    }
+  },
+  "Virabhadrasana Two": {
+    "description": "Virabhadrasana Two",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 179,
+        "threshold": 15
+      },
+      "angle_left_elbow": {
+        "ideal": 173,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 93,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 107,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 132,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 101,
+        "threshold": 15
+      },
+      "angle_right_knee": {
+        "ideal": 175,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 106,
+        "threshold": 15
+      }
+    }
+  },
+  "Vrkasana": {
+    "description": "Vrkasana",
+    "angles": {
+      "angle_right_elbow": {
+        "ideal": 140,
+        "threshold": 15
+      },
+      "angle_left_elbow": {
+        "ideal": 141,
+        "threshold": 15
+      },
+      "angle_right_shoulder": {
+        "ideal": 174,
+        "threshold": 15
+      },
+      "angle_left_shoulder": {
+        "ideal": 179,
+        "threshold": 15
+      },
+      "angle_right_hip": {
+        "ideal": 129,
+        "threshold": 15
+      },
+      "angle_left_hip": {
+        "ideal": 177,
+        "threshold": 15
+      },
+      "angle_left_knee": {
+        "ideal": 179,
+        "threshold": 15
+      }
+    }
+  }
+}
