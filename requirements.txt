@@ -21,3 +21,6 @@ tokenizers
 firebase-admin
 crewai
 drill
+pydantic
+langchain_google_genai
+python-dotenv
