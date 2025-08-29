@@ -12,17 +12,6 @@ except FileNotFoundError:
 
 
 def calculate_pose_accuracy(user_features: dict, detected_pose_name: str):
-    """
-    Calculates the accuracy of a user's pose by comparing their joint angles
-    to a pre-defined template.
-
-    Args:
-        user_features (dict): A dictionary of the user's calculated angles and landmarks.
-        detected_pose_name (str): The name of the pose detected by the classification model.
-
-    Returns:
-        dict: A dictionary containing the overall accuracy percentage and specific feedback.
-    """
     # Sanitize the pose name to match the JSON keys (e.g., "Warrior II" -> "warrior_ii")
     pose_key = detected_pose_name.lower().replace(" ", "_")
 
