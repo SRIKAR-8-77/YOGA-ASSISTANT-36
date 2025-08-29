@@ -1,22 +1,22 @@
 # ---- Core Machine Learning & Data ----
 tensorflow
-keras
-scikit-learn
+keras==3.10.0
+scikit-learn==1.6.1
 python-multipart
-pandas
-numpy
-joblib
-protobuf
+pandas==2.2.2
+numpy==1.26.4
+joblib==1.4.0
+protobuf==4.25.3
 uvicorn
 fastapi
 # ---- Computer Vision ----
 opencv-python-headless
-mediapipe
-transformers
+mediapipe==0.10.21
+transformers==4.38.2
 tf-keras
 python-dotenv
-torch
-tokenizers
+torch==2.2.1
+tokenizers==0.15.2
 # ---- Web App & Streaming ----
 firebase-admin
 crewai
