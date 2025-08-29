@@ -28,7 +28,7 @@ def calculate_pose_accuracy(user_features: dict, detected_pose_name: str):
 
     if pose_key not in POSE_TEMPLATES:
         return {
-            "accuracy": 100,  # Default to 100 if no template exists
+            "accuracy": 0,  # Default to 0 if no template exists
             "feedback": "No template available for this pose.",
             "details": []
         }
@@ -57,6 +57,8 @@ def calculate_pose_accuracy(user_features: dict, detected_pose_name: str):
                     "message": f"Your {angle_name.replace('_', ' ')} is correct."
                 })
             else:
+                # Calculate a normalized error score (0-100) for how far off the angle is.
+                # This makes large deviations more impactful than small ones.
                 normalized_error = min(100, ((error - threshold) / 90) * 100)
                 direction = "extend" if user_angle < ideal_angle else "bend"
                 diff = round(abs(user_angle - ideal_angle))
@@ -83,3 +85,4 @@ def calculate_pose_accuracy(user_features: dict, detected_pose_name: str):
         "feedback": "Great form!" if overall_accuracy > 85 else "Good effort, a few adjustments can improve your form.",
         "details": feedback_details
     }
+
